@@ -1,7 +1,7 @@
 ﻿# SSHPLUS MANAGER v31 (FREE) 
 # UPDATE 10/11/2020
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 
 ```
@@ -24,14 +24,14 @@ SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herram
 
 ## Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/main/Plus; chmod 777 Plus; ./Plus
 
 
 -------------------------------------------------------------------------------
 
 # PANEL SSHPLUS (VERSIONES)
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg)
+![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg)
 
 ```
 PANEL SSHPLUS es una herramienta completa de gestión y supervisión de usuarios que permite
@@ -42,7 +42,7 @@ PANEL SSHPLUS es una herramienta completa de gestión y supervisión de usuarios
 
 ## Installation
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
 
 
 -------------------------------------------------------------------------------
@@ -50,18 +50,18 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 ```
 ## PANEL SSHPLUS v20 (Installation Directa)
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; chmod +x install; ./install
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/Panel_Web/panel_v20/install; chmod +x install; ./install
 ```
 
 -------------------------------------------------------------------------------
 
 # TCP-Tweaker-1.0 (TCP-SPEED)
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
+![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
 
 ## Installation
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
 
 -------------------------------------------------------------------------------
 
@@ -74,8 +74,8 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 ```
 
 ```
-☆ https://t.me/admmanagerfree ☆
+☆ https://t.me/dev_vpn ☆
 
 ```
 
-**By: [  ⃘⃤꙰✰ ]**
+**By: [ KHMERNET ]**
