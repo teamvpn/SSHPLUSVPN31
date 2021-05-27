@@ -1,28 +1,28 @@
 ﻿# SSHPLUS MANAGER v31 (FREE) 
 # UPDATE 10/11/2020
 
-![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/teamvpn/SSHPLUSVPN31/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 
 ```
-SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
-                 ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-                 VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-                 y los usuarios ...
+SCRIPT SSHPLUS MANAGER เป็นสคริปต์ที่มีชุดคุณสมบัติและเครื่องมือที่เหมาะสำหรับ
+                  มอบความสะดวกในการจัดการบนเซิร์ฟเวอร์ Linux โดยเน้นที่การใช้งานไฟล์
+                  VPN มีอินเทอร์เฟซที่น่าพอใจให้ข้อมูลโดยละเอียดเกี่ยวกับเครื่อง
+                  และผู้ใช้ ...
 ```
 
 -------------------------------------------------------------------------------
 
 **Manager Script**
 
-## :heavy_exclamation_mark: Requerimientos
+heavy_exclamation_mark: ข้อกำหนด
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian) 
-* Recomendamos Ubuntu 16.04 Server x86_64
-* Tambien puede funcionar en algunas versiones de  Debian Server x86_64
-* Se recomienda usar una distro nueva o formatiada
+ * ระบบปฏิบัติการที่ใช้ Linux (Ubuntu หรือ Debian)
+ * เราขอแนะนำ Ubuntu 16.04 Server x86_64
+ * ยังสามารถทำงานกับ Debian Server x86_64 บางเวอร์ชัน
+ * หากคุณแนะนำให้ใช้ distro ใหม่หรือฟอร์แมต
 
-## Installation
+ ## การติดตั้ง
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/main/Plus; chmod 777 Plus; ./Plus
 
@@ -31,18 +31,18 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/te
 
 # PANEL SSHPLUS (VERSIONES)
 
-![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg)
+![logo](https://github.com/teamvpn/SSHPLUSVPN31/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg)
 
 ```
-PANEL SSHPLUS es una herramienta completa de gestión y supervisión de usuarios que permite
-                 reventas y sub revendedores para aquellos que desean tener un negocio más amplio, 
-                 también tiene una interfaz intuitiva, a la que se puede acceder desde cualquier 
-                 navegador ...
-```
+PANEL SSHPLUS เป็นเครื่องมือการจัดการและการดูแลผู้ใช้ที่สมบูรณ์ที่ช่วยให้
+                  ฝ่ายขายและตัวแทนจำหน่ายย่อยสำหรับผู้ที่ต้องการข้อตกลงที่ใหญ่กว่า
+                  นอกจากนี้ยังมีอินเทอร์เฟซที่ใช้งานง่ายซึ่งสามารถเข้าถึงได้จากทุกที่
+                  เบราว์เซอร์ ...
+ “
 
-## Installation
+ ## การติดตั้ง
 
-wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
 
 
 -------------------------------------------------------------------------------
@@ -50,32 +50,33 @@ wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/Panel_We
 ```
 ## PANEL SSHPLUS v20 (Installation Directa)
 
-wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/Panel_Web/panel_v20/install; chmod +x install; ./install
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Install/Panel_Web/panel_v20/install; chmod +x install; ./install
 ```
 
 -------------------------------------------------------------------------------
 
 # TCP-Tweaker-1.0 (TCP-SPEED)
 
-![logo](https://github.com/teamvpn/SSHPLUS31/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
+![logo](https://github.com/teamvpn/SSHPLUSVPN31/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
 
 ## Installation
 
-wget https://raw.githubusercontent.com/teamvpn/SSHPLUS31/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
 
 -------------------------------------------------------------------------------
 
 ```
-* SIN MINERIA! 
-* SIN KEYS! 
-* VERSION GRATUITA 
-* SIN VIRUS TROJANO (BOTNET) 
-* ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+* SIN MINERIA!
+ * SIN KEYS!
+ * FREE VERSION
+ * SIN VIRUS TROJANO (BOTNET)
+ * FILES RELEASED (DECENCRYPTED))
 ```
 
 ```
 ☆ https://t.me/dev_vpn ☆
 
 ```
+**FACEBOOK: [ FREENETVPNDTAC ]**
 
 **By: [ KHMERNET ]**
