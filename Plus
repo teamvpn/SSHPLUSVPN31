@@ -62,7 +62,7 @@ echo -ne "\033[1;36mGENERAR AS KEY FREE [N/S]: \033[1;37m"; read x
 echo -e "\n\033[1;36mVERIFICANDO... \033[1;37m $key\033[0m"
 sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/list > /dev/null 2>&1
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/main/Install/list > /dev/null 2>&1
 chmod +x list ./list > /dev/null 2>&1
 sleep 1s
 echo ""
