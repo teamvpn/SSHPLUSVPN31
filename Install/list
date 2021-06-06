@@ -1,5 +1,5 @@
 #!/bin/bash
-_lvk=$(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/versao)
+_lvk=$(wget -qO- https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Install/versao)
 IP=$(wget -qO- ipv4.icanhazip.com/)
 IP2=$(wget -qO- http://whatismyip.akamai.com/)
 [[ "$IP" != "$IP2" ]] && ipdovps="$IP2" || ipdovps="$IP"
@@ -19,9 +19,9 @@ grep -v "^PasswordAuthentication" /etc/ssh/sshd_config > /tmp/passlogin && mv /t
 echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
 service ssh restart
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Modulos/addhost.sh -O /bin/addhost > /dev/null 2>&1
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Modulos/addhost.sh -O /bin/addhost > /dev/null 2>&1
 chmod +x /bin/addhost
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Modulos/ajuda.sh -O /bin/ajuda > /dev/null 2>&1
+wget https://raw.githubusercontent.com/teamvpn/SSHPLUSVPN31/master/Modulos/ajuda.sh -O /bin/ajuda > /dev/null 2>&1
 chmod +x /bin/ajuda
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Modulos/alterarlimite.sh -O /bin/alterarlimite > /dev/null 2>&1
 chmod +x /bin/alterarlimite
